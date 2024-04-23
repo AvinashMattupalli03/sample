@@ -1,5 +1,5 @@
 print("This is a sample file")
 print("Hello")
-a=2
-b=3
+a=int(input("Enter Number 1: "))
+b=int(input("Enter Number 2: "))
 print(a+b)
